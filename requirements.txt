@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+chromadb
+openai
+python-dotenv
+sentence-transformers
+pydantic
+requests
+tenacity
